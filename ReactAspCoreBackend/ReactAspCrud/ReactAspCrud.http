@@ -1,0 +1,6 @@
+@ReactAspCrud_HostAddress = http://localhost:5252
+
+GET {{ReactAspCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
