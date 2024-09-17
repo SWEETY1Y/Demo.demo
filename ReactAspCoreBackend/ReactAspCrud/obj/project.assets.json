@@ -4572,11 +4572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\z004v59b\\source\\repos\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
+      "projectUniqueName": "C:\\Users\\z004v59b\\source\\repos\\Repo-Git-WebApp\\Demo.demo\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
       "projectName": "ReactAspCrud",
-      "projectPath": "C:\\Users\\z004v59b\\source\\repos\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
+      "projectPath": "C:\\Users\\z004v59b\\source\\repos\\Repo-Git-WebApp\\Demo.demo\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
       "packagesPath": "C:\\Users\\z004v59b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\z004v59b\\source\\repos\\ReactAspCoreBackend\\ReactAspCrud\\obj\\",
+      "outputPath": "C:\\Users\\z004v59b\\source\\repos\\Repo-Git-WebApp\\Demo.demo\\ReactAspCoreBackend\\ReactAspCrud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\z004v59b\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aTaMF0UaFxw87lyKJDXuu8fIE2NT6uI4hsWRkVDb+1/n/8IgS+cclcaS3HFvjTBkP521CfiqAD4PwwpWGFNWaA==",
+  "dgSpecHash": "6Mqze1OMKobuntWHBFd/XoeplUDD5cRC83XA5KbvTOKW4GxibKxjP+m5SsunSXSMZpjrVJzWMc3Jay3VvKFmWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\z004v59b\\source\\repos\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
+  "projectFilePath": "c:\\Users\\z004v59b\\source\\repos\\Repo-Git-WebApp\\Demo.demo\\ReactAspCoreBackend\\ReactAspCrud\\ReactAspCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z004v59b\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\z004v59b\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
