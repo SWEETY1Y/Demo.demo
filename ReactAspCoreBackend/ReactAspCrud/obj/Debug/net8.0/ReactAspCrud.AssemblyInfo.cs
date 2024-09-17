@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactAspCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287487ba01256e8fa833445d1a644d5d5a097b32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd058b77d27acc438c226887bc1f3948f4864838")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactAspCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactAspCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
