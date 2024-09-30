@@ -12,7 +12,7 @@ namespace ReactAspCrud.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-        private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(),"C:\\Users\\z004v59b\\source\\repos\\aspcore-frontend\\Names.txt"); // Path to your text file
+        private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(),"/home/s/Demo.demo/aspcore-frontend/Names.txt"); // Path to your text file
         private readonly StudentDbContext _studentDbContext;
 
         public StudentController(StudentDbContext studentDbContext)
